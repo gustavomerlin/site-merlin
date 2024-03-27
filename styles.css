@@ -1,6 +1,15 @@
 body{
     color:white;
-    background-color:black ;
+    background-image:linear-gradient(to right, black, purple) ;
     font-size: 20px;
     font-family: sans-serif;
+}
+header{
+    background-color:black;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+footer{
+    text-align: center;
 }
