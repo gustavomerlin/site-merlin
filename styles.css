@@ -13,3 +13,9 @@ header{
 footer{
     text-align: center;
 }
+.imagem{
+    text-align: center;
+}
+.botao{
+    border-radius: 15px;
+}
